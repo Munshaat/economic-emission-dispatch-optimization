@@ -15,15 +15,4 @@ This project examines how electricity generation can be distributed among six th
 | Combined dispatch (CEED, w = 0.5) | 9,605.00 | 14,162.10 |
 | Economic Emission Dispatch (EED) | 9,687.10 | 13,044.50 |
 
-These are values **reported in the assignment**, not independently rerun or verified here. The report includes a Pareto trade-off figure, generator dispatch comparisons, and other plots.
 
-![Pareto-front figure from report](assets/preview.png)
-
-## Project report
-[View full PDF report](report.pdf)
-
-## Reproducibility
-The MATLAB source scripts, raw generator coefficients, and machine-readable datasets were not provided as separate files. This repository currently provides the academic report and a figure preview. Code and data can be added later if available.
-
-## Team attribution
-Group members listed in the report: Munshaat Atiq Nuzaba, Fabiha Anbar Orpa, Mahzabin Ishrat, Somia Alam, and Balbone Djenabou. Contributions of individual members are not specified in the report.
